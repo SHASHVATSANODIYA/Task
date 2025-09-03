@@ -34,3 +34,13 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+# vscode settings
+.vscode/
+
+# jetbrains IDEs
+.idea/
+
+# lock files (optional, if you don’t want them in repo)
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
